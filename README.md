@@ -7,6 +7,12 @@ A two-week coached learning project combining:
 - HTML, CSS, and JavaScript
 - Codex planning, implementation, review, and reflection
 
+## Live Website
+
+- [Factory homepage](https://wytkathy.github.io/silicone-europe-sprint/)
+- [Product landing page](https://wytkathy.github.io/silicone-europe-sprint/product.html)
+- [GitHub repository](https://github.com/Wytkathy/silicone-europe-sprint)
+
 The fictional brand **Silora Works** demonstrates an ODM/OEM silicone food
 storage collection. It is intentionally fictional: certifications, capacities,
 customers, and performance claims are placeholders until verified.
