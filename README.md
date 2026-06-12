@@ -1,5 +1,7 @@
 # Silora Europe Sprint
 
+[中文项目说明](README.zh-CN.md)
+
 A two-week coached learning project combining:
 
 - European B2B market development
