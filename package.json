@@ -1,0 +1,12 @@
+{
+  "name": "silicone-europe-sprint",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "python3 -m http.server 4173",
+    "build": "node scripts/build.mjs",
+    "typecheck": "node --check site/app.js && node --check scripts/build.mjs && node --check tests/site.test.mjs",
+    "test": "node --test tests/site.test.mjs"
+  }
+}

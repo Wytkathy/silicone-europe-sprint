@@ -1,0 +1,31 @@
+rank,company,country,account_type,category_signal,opportunity_hypothesis,score,official_source,status
+1,Koziol,Germany,Design-led brand,"Reusable kitchen and household products","Explore a color-led silicone storage extension",4.70,https://www.koziol.de/,hypothesis
+2,Manufactum,Germany,Design retailer,"Durable household and kitchen assortment","Pitch a documented long-life reusable range",4.55,https://www.manufactum.com/,hypothesis
+3,Avocadostore,Germany,Sustainable marketplace,"Sustainability-positioned consumer assortment","Test demand through suitable marketplace brands",4.45,https://www.avocadostore.de/,hypothesis
+4,WENKO,Germany,Homeware brand,"Home and kitchen organization assortment","Explore private-label kitchen organization formats",4.40,https://www.wenko.com/,hypothesis
+5,Westwing,Germany,Home and living retailer,"Design-led home assortment","Develop an exclusive color-coordinated kitchen capsule",4.35,https://www.westwing.de/,hypothesis
+6,OTTO,Germany,Multi-category retailer,"Large home and kitchen assortment","Identify category or marketplace route",4.25,https://www.otto.de/,hypothesis
+7,Tchibo,Germany,Multi-category retailer,"Rotating consumer product collections","Explore a seasonal reusable kitchen collection",4.20,https://www.tchibo.de/,hypothesis
+8,Zwilling,Germany,Kitchenware brand,"Kitchen tools and food-storage assortment","Explore complementary silicone accessories",4.15,https://www.zwilling.com/de/,hypothesis
+9,GEFU,Germany,Kitchenware brand,"Design-focused kitchen tools","Explore a functional silicone storage accessory range",4.10,https://www.gefu.com/,hypothesis
+10,KitchenCraft,United Kingdom,Kitchenware brand,"Broad kitchen accessory assortment","Explore differentiated reusable storage formats",4.05,https://www.kitchencraft.co.uk/,hypothesis
+11,Lakeland,United Kingdom,Kitchen retailer,"Kitchenware and storage assortment","Explore retailer-exclusive reusable storage products",4.00,https://www.lakeland.co.uk/,hypothesis
+12,Joseph Joseph,United Kingdom,Design-led kitchen brand,"Problem-solving kitchen and organization products","Explore distinctive form-led silicone concepts",3.95,https://www.josephjoseph.com/,hypothesis
+13,Brabantia,Netherlands,Homeware brand,"Home and kitchen organization products","Explore coordinated reusable food-storage accessories",3.95,https://www.brabantia.com/,hypothesis
+14,Dille & Kamille,Netherlands,Lifestyle retailer,"Kitchen and household assortment","Explore natural-tone reusable kitchen accessories",3.90,https://www.dille-kamille.com/,hypothesis
+15,HEMA,Netherlands,Multi-category retailer,"Accessible design-led household assortment","Explore value-oriented private-label storage sets",3.85,https://www.hema.com/,hypothesis
+16,Bol,Netherlands,Marketplace retailer,"Broad kitchen and household marketplace","Use as channel research and assortment benchmark",3.70,https://www.bol.com/,hypothesis
+17,Habitat,France,Home retailer,"Design-led household assortment","Explore a design-forward kitchen capsule",3.65,https://www.habitat.fr/,hypothesis
+18,La Redoute,France,Home and fashion retailer,"Home and kitchen assortment","Explore private-label color-led storage collection",3.60,https://www.laredoute.fr/,hypothesis
+19,Monoprix,France,Multi-category retailer,"Home and kitchen consumer assortment","Explore compact seasonal kitchen accessories",3.55,https://www.monoprix.fr/,hypothesis
+20,Maisons du Monde,France,Home retailer,"Design-led home assortment","Explore coordinated kitchen color stories",3.55,https://www.maisonsdumonde.com/,hypothesis
+21,Flying Tiger Copenhagen,Denmark,Design value retailer,"Rotating accessible household products","Explore playful low-complexity silicone items",3.50,https://flyingtiger.com/,hypothesis
+22,Søstrene Grene,Denmark,Lifestyle retailer,"Design-led household assortment","Explore muted-color reusable accessories",3.50,https://sostrenegrene.com/,hypothesis
+23,IKEA,Sweden,Home retailer,"Food storage and kitchen organization range","Benchmark category and long-term strategic fit",3.45,https://www.ikea.com/,hypothesis
+24,Clas Ohlson,Sweden,Home retailer,"Household and practical living assortment","Explore functional reusable storage range",3.35,https://www.clasohlson.com/,hypothesis
+25,John Lewis,United Kingdom,Department store,"Kitchenware and home assortment","Explore premium retailer-exclusive range",3.30,https://www.johnlewis.com/,hypothesis
+26,Selfridges,United Kingdom,Department store,"Premium design and home assortment","Explore premium design-led capsule",3.20,https://www.selfridges.com/,hypothesis
+27,El Corte Inglés,Spain,Department store,"Broad home and kitchen assortment","Explore regional retailer range",3.20,https://www.elcorteingles.es/,hypothesis
+28,Maisons du Monde Marketplace,Europe,Marketplace,"Home-focused third-party assortment","Research route-to-market and competing offers",3.10,https://www.maisonsdumonde.com/,hypothesis
+29,Carrefour,France,Multi-category retailer,"Large household and kitchen assortment","Explore volume private-label only after capability validation",3.00,https://www.carrefour.fr/,hypothesis
+30,Kaufland,Germany,Multi-category retailer,"Marketplace and household assortment","Use as Germany channel and price benchmark",2.95,https://www.kaufland.de/,hypothesis
