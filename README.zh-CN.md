@@ -52,6 +52,9 @@
 完整任务位于
 [`curriculum/14-day-sprint.md`](curriculum/14-day-sprint.md)。
 
+- [DAY1 制造工厂市场分析入门课（Word）](DAY1/DAY1_制造工厂市场分析入门课.docx)
+- [DAY1 课程正文（Markdown）](DAY1/市场分析入门课.md)
+
 | 阶段 | 主要内容 | 预期成果 |
 |---|---|---|
 | 第 1–3 天 | 市场方向、HTML/CSS、Figma 基础、资料来源 | 理解项目结构并能修改简单页面 |
